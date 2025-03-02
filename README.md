@@ -16,6 +16,7 @@
 | `gabi` | 夜 | ![gabi](./images/gabi.gif) |
 | `kuya` | 兄(年上男性の接頭辞) | ![kuya](./images/kuya.gif) |
 | `ate` | 姉(年上女性の接頭辞) | ![ate](./images/ate.gif) |
+| `si` | 特定の個人を示す定冠詞(?) | ![si](./images/si.gif) |
 | `po` | 語尾につけると丁寧な言葉 | ![po](./images/po.gif) |
 | `ito` | これ | ![ito](./images/ito.gif) |
 | `na` | それ | ![na](./images/na.gif) |
