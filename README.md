@@ -22,3 +22,6 @@
 | `doon` | あれ | ![doon](./images/yun.gif) |
 | `ano` | 何 | ![ano](./images/ano.gif) |
 | `chang` | 単なる日本語の "ちゃん" | ![chang](./images/chang.gif) |
+
+# LICENSE
+[MIT](./LICENSE)
